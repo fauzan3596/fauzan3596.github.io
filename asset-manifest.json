@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.ba2346bd.css",
+    "main.js": "/my-app/static/js/main.040a2144.js",
+    "static/js/415.4d6acbeb.chunk.js": "/my-app/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/my-app/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Muhammad fauzan ramadhan-resume.pdf": "/my-app/static/media/Muhammad fauzan ramadhan-resume.03d0858c57a6181bc109.pdf",
+    "static/media/leaf.png": "/my-app/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/my-app/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/my-app/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/my-app/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/blog.png": "/my-app/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/my-app/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/my-app/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/my-app/static/media/chatify.7206044e0b5cdad44726.png",
+    "static/media/home-bg.jpg": "/my-app/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/my-app/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/my-app/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/my-app/index.html",
+    "main.ba2346bd.css.map": "/my-app/static/css/main.ba2346bd.css.map",
+    "main.040a2144.js.map": "/my-app/static/js/main.040a2144.js.map",
+    "415.4d6acbeb.chunk.js.map": "/my-app/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/my-app/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba2346bd.css",
+    "static/js/main.040a2144.js"
+  ]
+}
